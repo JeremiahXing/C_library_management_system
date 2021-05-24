@@ -1,2 +1,3 @@
 # C_library_management_system
 SDUWH的C大作业项目
+可以用addfile里的upload功能直接把本地文件传上来
